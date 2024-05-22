@@ -1,7 +1,3 @@
-# THIS PROJECT HAS BEEN ARCHIVED!
-
-## I may revisit Suricata logs in the future, however I will likely focus on replacing the Filebeat and Logstash components with a more purpose built collector.
-
 # sýnesis&trade; Lite for Suricata
 
 sýnesis&trade; Lite for Suricata provides basic log analytics for Suricata IDS/IPS using the Elastic Stack. It is a solution for the collection and analysis of Suricata "eve" JSON logs. This includes alerts, flows, http, dns, statistics and other log types.
