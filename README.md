@@ -422,4 +422,7 @@ I recommend configuring `timepicker:quickRanges` for the setting below. The resu
 
 # Attribution
 
-This product includes GeoLite data created by MaxMind, available from (http://www.maxmind.com)
+CREDITS: This product includes GeoLite data created by MaxMind, available from (http://www.maxmind.com)
+
+CREDITS: files and guide made from https://github.com/robcowart/synesis_lite_suricata 
+
